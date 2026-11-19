@@ -1,0 +1,4 @@
+interface:
+  display_name: "印占体系分析"
+  short_description: "核对排盘口径，串联本命分盘与大运行运，保留可复查的判断依据"
+  default_prompt: "使用 $analyze-jyotish 分析我提供的印占资料，先核对数据，再给出结论和依据。"

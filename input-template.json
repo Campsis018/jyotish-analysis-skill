@@ -1,0 +1,61 @@
+{
+  "description": "空模板；填入原软件值并删除无用空字段后再校核。null表示未知，不能当0。",
+  "settings": {
+    "software": null,
+    "zodiac": "sidereal",
+    "ayanamsha": null,
+    "nodes": null,
+    "houses": null,
+    "d9_variant": null,
+    "karaka_system": "eight-source-preserved",
+    "dasha_year_days": null,
+    "timezone": null,
+    "annual_method": "birthplace-tithi-pravesha",
+    "varga_variants": {}
+  },
+  "d1": {
+    "asc_longitude": null,
+    "planets": {
+      "Sun": {
+        "longitude": null,
+        "source": null
+      },
+      "Moon": {
+        "longitude": null,
+        "source": null
+      },
+      "Mars": {
+        "longitude": null,
+        "source": null
+      },
+      "Mercury": {
+        "longitude": null,
+        "source": null
+      },
+      "Jupiter": {
+        "longitude": null,
+        "source": null
+      },
+      "Venus": {
+        "longitude": null,
+        "source": null
+      },
+      "Saturn": {
+        "longitude": null,
+        "source": null
+      },
+      "Rahu": {
+        "longitude": null,
+        "source": null
+      },
+      "Ketu": {
+        "longitude": null,
+        "source": null
+      }
+    }
+  },
+  "karakas": {},
+  "source_files": [],
+  "question": null,
+  "time_window": null
+}

@@ -1,0 +1,66 @@
+{
+  "synthetic": true,
+  "description": "数学校核用合成黄经，非任何真实时刻的天空；没有出生资料或事件预测。",
+  "settings": {
+    "zodiac": "sidereal",
+    "ayanamsha": "synthetic-input-no-ephemeris",
+    "nodes": "mean",
+    "houses": "whole-sign",
+    "d9_variant": "standard-parashari",
+    "karaka_system": "eight-source-preserved",
+    "dasha_year_days": 365.256364,
+    "timezone": "UTC"
+  },
+  "d1": {
+    "asc_longitude": 15.0,
+    "planets": {
+      "Sun": {
+        "longitude": 125.0,
+        "source": "synthetic-fixture",
+        "sign": 5,
+        "house": 5,
+        "d9_sign": 2,
+        "nakshatra": "Magha",
+        "pada": 2
+      },
+      "Moon": {
+        "longitude": 95.0,
+        "source": "synthetic-fixture",
+        "sign": 4,
+        "house": 4,
+        "d9_sign": 5,
+        "nakshatra": "Pushya",
+        "pada": 1
+      },
+      "Mars": {
+        "longitude": 5.0,
+        "source": "synthetic-fixture"
+      },
+      "Mercury": {
+        "longitude": 65.0,
+        "source": "synthetic-fixture"
+      },
+      "Jupiter": {
+        "longitude": 245.0,
+        "source": "synthetic-fixture"
+      },
+      "Venus": {
+        "longitude": 35.0,
+        "source": "synthetic-fixture"
+      },
+      "Saturn": {
+        "longitude": 305.0,
+        "source": "synthetic-fixture"
+      },
+      "Rahu": {
+        "longitude": 170.0,
+        "source": "synthetic-fixture"
+      },
+      "Ketu": {
+        "longitude": 350.0,
+        "source": "synthetic-fixture"
+      }
+    }
+  },
+  "karakas": {}
+}
